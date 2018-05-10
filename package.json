@@ -2,7 +2,7 @@
   "name": "mongodb-get",
   "version": "0.0.1",
   "description": "Makes getting resources across collections a breeze.",
-  "main": "build/index.js",
+  "main": "build/src/index.js",
   "license": "Apache-2.0",
   "private": false,
   "scripts": {
