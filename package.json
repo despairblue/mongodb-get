@@ -1,5 +1,5 @@
 {
-  "name": "mongo-get",
+  "name": "mongodb-get",
   "version": "0.0.1",
   "description": "Makes getting resources across collections a breeze.",
   "main": "build/index.js",
