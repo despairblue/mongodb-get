@@ -39,7 +39,7 @@ export async function set(
   }
 }
 
-type MultiResult<T> = { [key: string]: T };
+export type MultiResult<T> = { [key: string]: T };
 
 export function get(
   multiQuery: { [key: string]: FilterQuery<any> },
