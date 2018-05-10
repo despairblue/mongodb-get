@@ -1,6 +1,6 @@
 {
   "name": "mongodb-get",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Makes getting resources across collections a breeze.",
   "main": "build/src/index.js",
   "license": "Apache-2.0",
