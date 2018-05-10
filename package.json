@@ -1,6 +1,6 @@
 {
   "name": "mongodb-get",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Makes getting resources across collections a breeze.",
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
